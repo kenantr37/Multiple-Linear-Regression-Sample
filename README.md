@@ -1,1 +1,1 @@
-# Multiple-Linear-Regression-Sample
+# Multiple Linear Regression Sample
